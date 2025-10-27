@@ -54,11 +54,22 @@ Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** w
 ![Zyro](https://img.shields.io/badge/Zyro-E41E26.svg?style=for-the-badge&logo=zyro&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=wix&logoColor=white)
 ![AwardSpace](https://img.shields.io/badge/AwardSpace-0047AB.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
+![Blackbox](https://img.shields.io/badge/Blackbox-1E1E1E.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFD43B.svg?style=for-the-badge&logo=anthropic&logoColor=black)
+![Qwen](https://img.shields.io/badge/Qwen-0078D4.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
 
 ### 🔌 **IoT & Other Tech**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-%23FF5733.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dev C++](https://img.shields.io/badge/Dev%20C++-1E90FF.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2E7D32.svg?style=for-the-badge&logo=arcgis&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
