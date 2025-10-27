@@ -73,12 +73,11 @@ Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** w
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raihhazm&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raihhazm&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazm&theme=tokyonight&hide_border=false&layout=compact)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raihhazm&theme=tokyo-night)
 
 ---
 
