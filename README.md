@@ -109,13 +109,39 @@ Currently, I'm pursuing a degree in **Information Technology at UIN Antasari Ban
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=Raihan%20Azmi's%20GitHub%20Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raihhazmi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&border_radius=20" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+### 🧠 Overall Performance  
+<a href="https://github.com/Raihhazmi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=Raihan%20Azmi's%20GitHub%20Stats" height="165" />
+</a>
+
+### 🔥 Contribution Streak  
+<a href="https://github.com/Raihhazmi">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raihhazmi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&border_radius=20" height="165" />
+</a>
+
+### 🧩 Top Languages  
+<a href="https://github.com/Raihhazmi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+</a>
+
+---
+
+### 💻 Tools I Use
+> 🧠 Always exploring, learning, and building with these technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,arduino,python,mysql,sqlite,html,css,js,php,vercel,figma,arcgis,virtualbox,googlecolab" />
+</p>
+
+---
+
+🌙 *Optimized for dark mode — inspired by modern developer portfolios.*
+
+</div>
 
 ---
 
