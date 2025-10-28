@@ -27,19 +27,19 @@ Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari 
 
 <p align="center">
   <a href="https://instagram.com/m_raihanazmi37" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-raihan-azmi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" />
   </a>
   <a href="https://discordapp.com/users/Raihan_Azmi37" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat" />
   </a>
   <a href="https://github.com/Raihhazmi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
   </a>
   <a href="mailto:raihanazmi37@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" />
   </a>
 </p>
 
@@ -129,10 +129,12 @@ Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raihhazmi&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raihhazmi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
+
+
 
 ---
 
@@ -156,6 +158,7 @@ Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari 
 </p>
 
 ---
+
 <p align="center">
     “Your time is limited, so don’t waste it living someone else’s life.” - Steve Jobs
 </p>
