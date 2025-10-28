@@ -96,12 +96,15 @@ Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wokwi-FF5733?logo=arduino&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino%20Uno-008184?logo=arduino&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-006C6C?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ## 📱 Featured Projects
-<p align="center">
+
+<div align="center">
 
 | Project | Description | Tech Used |
 |--------|-------------|----------|
@@ -109,15 +112,16 @@ Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari 
 | **[QuickNote App](https://github.com/Raihhazmi/P4appnavigation_230104040079)** | Minimalist note-taking app for daily use | Flutter, Dart |
 | **[Keva Project](https://github.com/Raihhazmi/Keva)** | Creative experiment with modern web frameworks | Next.js, Tailwind CSS |
 
+</div>
+
 > 💡 *More projects in my [GitHub profile](https://github.com/Raihhazmi)!*
 
-</p>
 ---
 
 ## 🏆 Experience & Achievements
 
 - 💼 **Treasurer I** — OSABA (Organisasi Santri Al-Baladul Amin)  
-- 🏅 **“Santri Teladan” Award** — Recognized for discipline and contribution  
+- 🏅 **“OSABA Teladan” Award** — Recognized for discipline and contribution  
 - 🎓 **Undergraduate Student** — Information Technology, UIN Antasari Banjarmasin  
 
 ---
@@ -153,5 +157,5 @@ Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari 
 
 ---
 <p align="center">
-    *“Your time is limited, so don’t waste it living someone else’s life.” — Steve Jobs*
+    “Your time is limited, so don’t waste it living someone else’s life.” - Steve Jobs
 </p>
