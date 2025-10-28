@@ -118,14 +118,6 @@ Currently, I'm pursuing a degree in **Information Technology at UIN Antasari Ban
 
 ---
 
-### 💻 Tools I Use
-> 🧠 Always exploring, learning, and building with these technologies  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,arduino,python,mysql,sqlite,html,css,js,php,vercel,figma,arcgis,virtualbox,googlecolab" />
-</p>
-
-
 ## ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
