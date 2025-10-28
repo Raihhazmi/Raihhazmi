@@ -9,53 +9,55 @@
 
 ---
 
-### 🌟 About Me
-Hey there! I'm **Raihan**, a passionate developer from **South Kalimantan, Indonesia 🇮🇩**.  
-I love building web and mobile apps that make life simpler and more meaningful.  
-Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** while exploring full-stack development and IoT projects with Arduino.  
+## 🌟 About Me
+Hi! I'm **Raihan**, a passionate developer from **South Kalimantan, Indonesia 🇮🇩**.  
+I enjoy building **web** and **mobile applications** that make life simpler and more meaningful.  
+Currently, I'm pursuing a degree in **Information Technology at UIN Antasari Banjarmasin** while exploring **Full-Stack Development** and **IoT with Arduino**.
 
 🌱 *Always learning, creating, and sharing what I build.*
 
 ---
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_raihanazmi37)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raihan-azmi)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/Raihan_Azmi37)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raihhazmi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raihanazmi37@gmail.com)
+<p align="left">
+  <a href="https://instagram.com/m_raihanazmi37"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-raihan-azmi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/Raihan_Azmi37"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/Raihhazmi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="mailto:raihanazmi37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### 🚀 **Languages & Frameworks**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🚀 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+---
 
-
-### ⚙️ **Databases & Tools**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ⚙️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-2E8B57.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![Zyro](https://img.shields.io/badge/Zyro-E41E26.svg?style=for-the-badge&logo=zyro&logoColor=white)
@@ -67,10 +69,11 @@ Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** w
 ![Claude](https://img.shields.io/badge/Claude-FFD43B.svg?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Qwen](https://img.shields.io/badge/Qwen-0078D4.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
+---
 
-### 🔌 **IoT & Other Tech**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Wokwi](https://img.shields.io/badge/Wokwi-%23FF5733.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+### 🔌 IoT & Other Tech
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-%23FF5733.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Dev C++](https://img.shields.io/badge/Dev%20C++-1E90FF.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -81,15 +84,13 @@ Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** w
 ---
 
 # 📱 Featured Projects
-
-🔹 [Website Pemantauan Siswa Berbasis Web](#) — Web app for monitoring student data and performance.  
-🔹 [QuickNote App (Flutter)](https://github.com/Raihhazmi/P4appnavigation_230104040079) — Simple mobile note app for daily use.  
-🔹 [Keva Project](https://github.com/Raihhazmi/Keva) — Creative tech experiment built with modern frameworks.  
+🔹 [**Website Pemantauan Siswa Berbasis Web**](#) — Web app for monitoring student data and performance.  
+🔹 [**QuickNote App (Flutter)**](https://github.com/Raihhazmi/P4appnavigation_230104040079) — Simple mobile note app for daily use.  
+🔹 [**Keva Project**](https://github.com/Raihhazmi/Keva) — Creative tech experiment built with modern frameworks.  
 
 ---
 
 # 🏆 Experience & Achievements
-
 - 💼 **Treasurer 1** — OSABA (Organisasi Santri Al-Baladul Amin)  
 - 🏅 **Awarded “Santri Teladan”** for outstanding contribution and discipline  
 - 🎓 **Information Technology Student** — UIN Antasari Banjarmasin  
@@ -97,15 +98,18 @@ Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** w
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raihhazmi&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihhazmi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### ✍️ Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -115,5 +119,8 @@ Currently, I'm studying **Information Technology at UIN Antasari Banjarmasin** w
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Raihhazm&icon=6&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Raihhazm&icon=6&color=0" />
+  </a>
+</p>
