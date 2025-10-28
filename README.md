@@ -118,9 +118,3 @@ Currently, I'm pursuing a degree in **Information Technology at UIN Antasari Ban
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanazmi37@gmail.com)
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Raihhazm&icon=6&color=0" />
-  </a>
-</p>
