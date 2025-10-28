@@ -9,17 +9,21 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
-Hi! I'm **Raihan**, a passionate developer from **South Kalimantan, Indonesia 🇮🇩**.  
-I build **web and mobile applications** that simplify daily tasks and empower users.  
+Hey there! 👋 I'm **Muhammad Raihan Azmi**, a **Web Developer** and **Project Manager** based in **South Kalimantan, Indonesia 🇮🇩**.  
+I love turning ideas into reality through **beautiful, functional websites** and **smart mobile apps** that make life easier.  
 
-Currently pursuing a **Bachelor's in Information Technology** at **UIN Antasari Banjarmasin**, I’m diving deep into:
-- 🔥 **Full-Stack Development** (React, Laravel, Node.js)
-- 📡 **IoT & Embedded Systems** (Arduino, Wokwi)
-- 🧠 **AI-Assisted Development** (leveraging modern tools responsibly)
+🎓 Currently, I’m pursuing a **Bachelor’s Degree in Information Technology** at **UIN Antasari Banjarmasin**, where I’m constantly exploring the intersection between **technology, creativity, and innovation**.  
 
-> 🌱 *Always learning, creating, and sharing what I build.*
+💻 **What I Do:**  
+- 🌐 **Web Development** – Crafting responsive and dynamic sites using **HTML, CSS, and JavaScript**.  
+- ⚙️ **Full-Stack Engineering** – Building complete apps with **React, Laravel, and Node.js**.  
+- 📡 **IoT & Embedded Systems** – Experimenting with **Arduino** and **Wokwi** for connected tech.  
+- 🤖 **AI-Assisted Development** – Using modern AI tools to enhance productivity and creativity.  
+- 🧩 **Project Management** – Leading small dev teams to plan, design, and deliver impactful digital solutions.  
+
+> ✨ *“Code with purpose. Build with passion. Lead with vision.”*
 
 ---
 
