@@ -133,20 +133,36 @@ I love turning ideas into reality through **beautiful, functional websites** and
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raihhazmi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+<p align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages Card" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raihhazmi&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
 </p>
 
+---
 
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raihhazmi&theme=tokyonight&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10" alt="Dev Quote" />
 </p>
 
 ---
