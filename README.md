@@ -1,7 +1,7 @@
 <!--✨ README by Muhammad Raihan Azmi ✨-->
 
 <h1 align="center">👋 Hi, I'm Muhammad Raihan Azmi</h1>
-<h3 align="center">💻 Full-Stack Developer | 📱 Mobile Enthusiast | 🎓 IT Student | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Front - End Developer | 📱 Mobile Enthusiast | 🎓 IT Student | 🌱 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=007BFF&size=22&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Inspire.;Turning+ideas+into+impactful+apps;Building+for+the+web+and+beyond" alt="Typing SVG" />
