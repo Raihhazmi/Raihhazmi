@@ -113,9 +113,9 @@ I love turning ideas into reality through **beautiful, functional websites** and
 
 | Project | Description | Tech Used |
 |--------|-------------|----------|
-| **[Website Pemantauan Siswa](https://github.com/Raihhazmi)** | Web app for monitoring student data and performance | Laravel, MySQL, Bootstrap |
-| **[QuickNote App](https://github.com/Raihhazmi/P4appnavigation_230104040079)** | Minimalist note-taking app for daily use | Flutter, Dart |
-| **[Keva Project](https://github.com/Raihhazmi/Keva)** | Creative experiment with modern web frameworks | Next.js, Tailwind CSS |
+| **[Website Pemantauan Siswa](https://github.com/Raihhazmi)** | Web app for monitoring student data and performance | <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" /> |
+| **[Minda (Diarry Application)](https://github.com/Raihhazmi/P6-RESTful-BestPractice-230104040079)** | Minda adalah aplikasi jurnal harian berbasis Kotlin + Jetpack Compose yang bekerja sepenuhnya offline menggunakan Room (SQLite). Dirancang untuk sederhana, cepat, dan aman—cocok sebagai proyek pembelajaran dan dasar aplikasi personal diary yang menghargai privasi pengguna  | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin)![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Declarative_UI-4285F4?style=for-the-badge&logo=jetpackcompose) |
+| **[Keva Project](https://github.com/Raihhazmi/Keva)** | Creative experiment with modern web frameworks | <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> |
 
 </div>
 
