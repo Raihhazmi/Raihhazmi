@@ -73,13 +73,35 @@ I love turning ideas into reality through **beautiful, functional websites** and
 
 ### ⚙️ Databases & DevOps
 <p align="center">
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neon-00E5A8?logo=neon&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Turso-4FFFB0?logo=sqlite&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?logo=redis&logoColor=black&style=for-the-badge" />
+
+  <!-- BaaS / Backend -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?logo=pocketbase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nhost-000000?logo=nhost&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Back4App-0F9D58?logo=parse&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Convex-000000?logoColor=white&style=for-the-badge" />
+
+  <!-- Low-code / No-code -->
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NocoDB-2D7FF9?logo=nocodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Baserow-5190EF?logo=baserow&logoColor=white&style=for-the-badge" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ### 🛠️ Tools & Design
 <p align="center">
