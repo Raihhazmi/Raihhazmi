@@ -113,15 +113,18 @@ I love turning ideas into reality through **beautiful, functional websites** and
 
 | Project | Description | Tech Used |
 |--------|-------------|----------|
+| **[ForestGuard](https://github.com/Raihhazmi/ForestGuard)** | Aplikasi monitoring dan edukasi lingkungan untuk menjaga kelestarian hutan, dilengkapi fitur pelaporan dan informasi berbasis data | <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" /> |
+| **[SmartPay](https://github.com/Raihhazmi/SmartPay-New)** | Aplikasi pembayaran digital dan manajemen transaksi sederhana sebagai simulasi sistem e-wallet modern | <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" /> |
+| **[CityEvent](https://github.com/Raihhazmi/CityEvent-New)** | Aplikasi Android untuk menemukan dan mengelola event kota secara real-time, dengan fokus pada pengalaman pengguna | <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> |
+| **[Multimedia App](https://github.com/Raihhazmi/p8_multimedia_230104040079)** | Proyek aplikasi multimedia Android yang mengimplementasikan audio, video, dan komponen interaktif | <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> |
 | **[Website Pemantauan Siswa](https://github.com/Raihhazmi)** | Web app for monitoring student data and performance | <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" /> |
-| **[Minda (Diarry Application)](https://github.com/Raihhazmi/P6-RESTful-BestPractice-230104040079)** | Minda adalah aplikasi jurnal harian berbasis Kotlin + Jetpack Compose yang bekerja sepenuhnya offline menggunakan Room (SQLite). Dirancang untuk sederhana, cepat, dan aman—cocok sebagai proyek pembelajaran dan dasar aplikasi personal diary yang menghargai privasi pengguna  | ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin)![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Declarative_UI-4285F4?style=for-the-badge&logo=jetpackcompose) |
+| **[Minda (Diary Application)](https://github.com/Raihhazmi/P6-RESTful-BestPractice-230104040079)** | Aplikasi jurnal harian berbasis Kotlin + Jetpack Compose yang bekerja sepenuhnya offline menggunakan Room (SQLite). Dirancang sederhana, cepat, dan aman dengan fokus pada privasi pengguna | <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" /> |
 | **[Keva Project](https://github.com/Raihhazmi/Keva)** | Creative experiment with modern web frameworks | <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /> |
 
 </div>
 
-> 💡 *More projects in my [GitHub profile](https://github.com/Raihhazmi)!*
+> 💡 *More projects available on my [GitHub profile](https://github.com/Raihhazmi)!*
 
----
 
 ## 🏆 Experience & Achievements
 
