@@ -107,6 +107,7 @@ I love turning ideas into reality through **beautiful, functional websites** and
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=arc&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
