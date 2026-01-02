@@ -163,10 +163,10 @@ I love turning ideas into reality through **beautiful, functional websites** and
 
 <p align="center" border="0" cellpadding="0" cellspacing="0">
   <tr align="center">
-    <td>
+    <td valign="top">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raihhazmi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
     </td>
-    <td>
+    <td valign="top">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihhazmi&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages Card" />
     </td>
   </tr>
